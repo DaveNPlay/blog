@@ -22,7 +22,7 @@ Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir. A co
 
 
 
-<p><b>Reglas ortográficas de la g y la j</b>
+<p><b>Reglas ortográficas de la g y la j
 <p> •	La g con la e y la i tiene sonido gutural fuerte (como en gente o en gigante); para representar ese mismo sonido suave, se coloca una u muda entre la g y la e o la i: guerra, guiso…; cuando esa u intermedia suena, se escribe con diéresis, como en pingüino.<br>
 •	Se escriben con j las formas verbales con sonido je, ji si los infinitivos correspondientes no llevan ni g ni j: distrajimos de distraer, dedujimos de deducir, dijimos de decir, etc.<br></p>
 
