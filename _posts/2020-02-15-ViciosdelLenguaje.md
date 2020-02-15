@@ -125,7 +125,8 @@ Vino un clown al cumpleaños de Marta (payaso)</p>
 Ana hizo acto de presencia → hubiera sido suficiente decir: "Ana asistió"
 Se va a proceder al acto de votación (votar)
 Estoy en condiciones de lograrlo (puedo)</p>
-<pa><b>Pleonasmo o Redundancia: </br> 
+ 
+<pa><b>Pleonasmo o Redundancia: </b> 
 <p>consiste en utilizar palabras innecesarias que no añaden nada nuevo a la idea que se quiere transmitir:
 Bajar abajo, subir afuera, entrar adentro, salir afuera...  
 Persona humana
@@ -137,7 +138,8 @@ Callar la boca</p>
 ¿Qué hablas? (incorrecto) → ¿De qué hablas? (correcto)  
 María le informo que había que entregar el reporte 
 Estoy segura que es esta vez </p> 
-<pa><b>Solecismo: </br> 
+ 
+<pa><b>Solecismo: </b> 
 <p>consiste en construir una oración incorrectamente con errores sintácticos. Se puede originar por:
 errores de concordancia: hacen años que no lo hago (hace)
 mal empleo de preposiciones: de conformidad a lo establecido (con)</p>
