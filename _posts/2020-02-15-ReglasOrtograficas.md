@@ -12,6 +12,7 @@ author: Dave Delgado
 <center><img src="https://i2.wp.com/webdelmaestrocmf.com/portal/wp-content/uploads/2018/12/1-63.jpg?resize=919%2C973" style="
     width: 400px;
 "></center>
+ <center> <a>Imagen 1</a></center>
 
 <h2>Reglas:</h2>
 <p><b>Uso de la b y v</b><br>
