@@ -6,8 +6,8 @@ author: Dave Delgado
 ---
 
  <p><b>Definición:</b><br>
- Son las normas que regulan la escritura de las palabras. El sistema que forman estas normas, conocido como ortografía, constituye una convención sobre cómo debe manifestarse por escrito una determinada lengua.<br>
-<center><img src="https://i2.wp.com/webdelmaestrocmf.com/portal/wp-content/uploads/2018/12/1-63.jpg?resize=919%2C973" style="
+Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir. A continuación mostramos una lista detallada de dichos vicios del lenguaje:<br>
+<center><img src="https://4.bp.blogspot.com/-b1faoL0sDw8/WP_WoTgpRWI/AAAAAAAACy4/7Z7w9b6QKyoyVdxCLLtHz95AgASk8mrCQCLcB/s400/vicios.PNG" style="
     width: 400px;
 "></center>
  <center> <a>Imagen 1</a></center>
