@@ -22,21 +22,130 @@ Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir. A co
 
 
 
-<p><b>Reglas ortográficas de la g y la j
-<p> •	La g con la e y la i tiene sonido gutural fuerte (como en gente o en gigante); para representar ese mismo sonido suave, se coloca una u muda entre la g y la e o la i: guerra, guiso…; cuando esa u intermedia suena, se escribe con diéresis, como en pingüino.<br>
-•	Se escriben con j las formas verbales con sonido je, ji si los infinitivos correspondientes no llevan ni g ni j: distrajimos de distraer, dedujimos de deducir, dijimos de decir, etc.<br></p>
+<pa><b>Arcaísmo:</br>
+consiste en el emplo de palabras o expresiones que resultan anticuadas o cuyo uso está en declive:
+Nos convidó al banquete → "convidar" es un arcaísmo de "invitar"
+Nos dimos al placer del buen yantar con exquisitos manjares... → comer 
+Se pone los anteojos para leer → gafas, lentes
+Desfacer entuertos → deshacer agravios
+Algunos vocablos más en desuso: ansí, agora, endenantes, estonce, escuro, mesmo, facer, deprender, haiga, abajar, emprestar, trompezar, recebir...
 
- 
-<p><b>Reglas de ortografía de la y, i, m y n</b>
-<p>•	Se escribe i al principio de palabra cuando va seguido de consonante, y y cuando va seguida de vocal: invierno, yate.<br>
-•	El prefijo in- se convierte en im- antes de b y p (imborrable, imposible), en ir- si la palabra a la que precede empieza por r (irrepetible, irreal), o en i- delante de l (ilegal, ileso).<br></p>
+<pa><b>Barbarismo</br> 
+consiste en escribir o pronunciar mal las palabras debido a:
+faltas ortográficas: zanaoria (zanahoria), proivido (prohibido)...
+errores de acentuación: cancion (canción), tabernaculo (tabernáculo)...
+cambios en las letras: mounstro (monstruo)...
+vocablos impropios: el equipo gana de cinco puntos (por)...
+palabras extranjeras innecesarias: tiene una decoración muy chic (elegante)...
+<pa><b>Cacofonía:</br> 
+consiste en repetir sonidos o sílabas en palabras próximas provocando un efecto sonoro desagradable:
+Parece que ya aparece la Luna por el horizonte
+Ricardo corre rápido
+Tómate el té y se te pasará el resfriado
+Trataron de traer a los tres hermanos a la cena
+<pa><b>Dequeísmo:</br> 
+consiste en usar incorrectamente las palabras "de que" en lugar de simplemente decir "que":
+Dijo de que se marchaba (dijo que se marchaba)
+Me avisó de que no estaba disponible
+Me parece de que no es correcto
+Pienso de que podrías acompañarme
+<pa><b>Extranjerismo:</br> 
+consiste en emplear palabras de otro idioma de manera excesiva o innecesaria:
+¡Eres el number one! (número uno)
+Arrivederci (hasta la vista) 
+Bye, bye (adios)
+Saque de corner (esquina)
+Hiato Cacofónico:</br>  
+consiste en repetir la misma vocal en sílabas o palabras próximas provocando un efecto sonoro desagradable:
+Va a Argentina
+Es un trabajo horroroso
+<pa><b>Idiotismo:</br>  
+consiste en una forma de hablar contraria a las reglas gramaticales. Se puede originar por:
+Construcción gramatical incorrecta: es más mejor (es bastante mejor)
+Creación de palabras inexistentes: la alcanzabilidad (el alcance)
+<pa><b>Impropiedad: </br> 
+consiste en emplear palabras inadecuadas atribuyéndoles significados que no poseen:
+Hemos visto muchos pescados en la playa (peces)
+Examinar el tema con profundidad (detenimiento)
+Ezequiel ostentó el cargo de alcalde (ejerció)
+He terminado la tareas de redactado (redacción)
+<pa><b>Laconismo: </br> 
+consiste en utilizar expresiones exageradamente breves, especialmente en respuestas a determinadas preguntas:
+- ¿Qué opinas al respecto?
+- Estoy de acuerdo
+- ¿pero qué opinas al respecto?
+- Ya te lo he dicho 
+<pa><b>Metátesis: </br> 
+consiste en cambiar los sonidos dentro de una palabra:
+Le dolía el estógamo → Le dolía el estómago (correcto)
+María cocina cocretas (croquetas)
+Movimiento buscro (brusco)
+<pa><b>Modismos: </br> 
+consisten en expresiones invariables o frases hechas cuya significación no se puede deducir de las palabras que las conforman:
+Está en la luna → este modismo significa que está despistado
+Tener los pantalones
+A perro flaco, todo son pulgas
+Tirar la toalla
+<pa><b>Monotonía o Pobreza Léxica: </br> 
+consiste en el uso reiterado y excesivo de las mismas palabras existiendo otras más precisas y adecuadas:
+Decir un discurso (pronunciar un discurso)
+Hacer una casa - (construir una casa) 
+Hacer un pastel - (cocinar un pastel) 
+Tener grandes cualidades - (poseer grandes cualidades)
+<pa><b>Muletillas o Bastoncillos:  </br> 
+son palabras o expresiones innecesarias que se repiten mucho por costumbre pero no aportan información relevante:
+Pues qué quieres que te diga, yo no creo que esa sea la mejor solución 
+Esto... ¿qué te iba a decir?, ah sí, el otro día me encontré a Julia y...  
+Colón descubrió América en mmm... digo... osea 1492 ¿no? 
+Madre mía pero qué guapa estás ¿eh? 
+¡Sí claro! ¿Pero cómo esperas que me lo pueda creer? 
+Yo no sé tú... pero bueno... yo no lo haría 
+Venga, vamos a terminar la tarea
+<pa><b>Neologismo:</br>  
+consiste en emplear palabras de otros idiomas de forma excesiva o innecesaria. 
+El actor ha hecho su debut (se ha mostrado en público por primera vez) 
+Disfrutar de su confort (comodidad) 
+Se ausentó para ir al toilette (aseo)
+Vino un clown al cumpleaños de Marta (payaso)
+<pa><b>Perífrasis: </br> 
+consiste en un utilizar de manera abusiva más palabras de las necesarias. Es decir producir un rodeo innecesario para dar a entender algo:
+Ana hizo acto de presencia → hubiera sido suficiente decir: "Ana asistió"
+Se va a proceder al acto de votación (votar)
+Estoy en condiciones de lograrlo (puedo)
+<pa><b>Pleonasmo o Redundancia: </br> 
+consiste en utilizar palabras innecesarias que no añaden nada nuevo a la idea que se quiere transmitir:
+Bajar abajo, subir afuera, entrar adentro, salir afuera...  
+Persona humana
+Miel de abeja
+Callar la boca
+<pa><b>Queísmo o Adequeísmo: </br> 
+consiste en eliminar la preposición "de" en la expresión "de que":
+¿Qué hablas? (incorrecto) → ¿De qué hablas? (correcto)  
+María le informo que había que entregar el reporte 
+Estoy segura que es esta vez  
+<pa><b>Solecismo: </br> 
+consiste en construir una oración incorrectamente con errores sintácticos. Se puede originar por:
+errores de concordancia: hacen años que no lo hago (hace)
+mal empleo de preposiciones: de conformidad a lo establecido (con)
+<pa><b>Sonsonete: </br> 
+consiste en alterar el sonido correcto de las consonantes de una palabra produciendo un ruido en la pronunciación.
+Zenzazional (sensacional)
+¡Que te pego leshes! (leches)
+Shile (Chile)
+<pa><b>Ultracorrección o Hipercorrección:  </br> 
+consiste en deformar una palabra creyendo equivocadamente que se obtiene una variante más culta:
+Bilbado (Bilbao)
+Inflacción económica (inflación)
+Me bañé en el rido (río)
+Bacalado (bacalao)
+<pa><b>Vulgarismo:</br> 
+consiste en una forma de hablar descuidada o propia de personas poco cultas:
+Medecina (medicina)
+¿Onde está? (dónde)
+Agolpear (golpear)
+Istrumento (instrumento) 
 
-<p><b>Reglas ortográficas de la r, rr, d, z, x y s</b>
-<p>•	Se escribe rr siempre que vaya entre dos vocales, aunque sea una palabra compuesta cuya forma simple lleve una sola r: vicerrector, contrarréplica, etc.<br>
 
-•	Se escribe d al final de la segunda persona del plural del imperativo: comprad, apuntad, llevad.<br>
-
-•	Se escriben con x las preposiciones latinas extra y ex (‘fuera de’): extraterrestre, exportar, etc.<br></p>
 
 <p><b>Les dejamos este interesante artículo:</b>
 <embed src="https://archivosdiversos.weebly.com/uploads/2/1/7/6/21760126/m2t1_vicios_del_lenguaje.pdf" width="100%" height="600px" />
