@@ -12,7 +12,7 @@ Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir. A co
     border-radius: 10px;
     border: double;
 "></center>
- <center> <a>Imagen 1</a></center>
+ <center> <a>Imagen 2</a></center>
 
 <h2>Vicios:</h2>
 <pa><b>Anfibología o Ambigüedad</b>
