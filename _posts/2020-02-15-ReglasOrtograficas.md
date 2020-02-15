@@ -7,14 +7,10 @@ author: Dave Delgado
 
 <embed src="https://cife.edu.mx/recursos/wp-content/uploads/2019/01/manual_de_reglas_ortograficas.pdf" type="application/pdf" width="100%" height="600px" />
 
- <center><img src="https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/wasserfallmodell-ES-1.jpg"></center> 
  <p><b>Definición:</b><br>
--Son las normas que regulan la escritura de las palabras. El sistema que forman estas normas, conocido como ortografía, constituye una convención sobre cómo debe manifestarse por escrito una determinada lengua.<br>
--Diseño del sistema y software.<br>
--Pruebas de implementación de unidades<br>
--Integración y pruebas del sistema<br>
--Operación y mantenimiento<br>
-El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
+ Son las normas que regulan la escritura de las palabras. El sistema que forman estas normas, conocido como ortografía, constituye una convención sobre cómo debe manifestarse por escrito una determinada lengua.<br>
+ <center><img src="https://i2.wp.com/webdelmaestrocmf.com/portal/wp-content/uploads/2018/12/1-63.jpg?resize=919%2C973"></center> 
+
 <h2>Modelo Desarrollo Incremental</h2>
 <img src="https://www.researchgate.net/profile/Juan_Luis_Caro_Becerra/publication/333175289/figure/fig15/AS:759594343206914@1558112812773/Figura-1-Desarrollo-de-modelo-incremental-Fuente-Elaboracion-propia_Q320.jpg">  
 <p>-El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
