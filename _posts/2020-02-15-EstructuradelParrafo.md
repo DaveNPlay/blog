@@ -8,7 +8,7 @@ author: Dave Delgado
  <p><b>Definición:</b><br>
  El párrafo es una unidad de discurso que en un texto escrito expresara una idea o argumento o bien reproducirá las palabras de un orador en un discurso.<br>Se encuentra compuesto por un conjunto de oraciones que ostentan cierta unidad temática o aunque sin tenerla se enuncian juntas. Es de fácil detección dentro de un texto por las siguientes características: comienza con una mayúscula y termina con un punto y aparte y comprende varias oraciones, como dijimos, relacionadas sobre el mismo subtema, en tanto una de ellas solamente expresará la idea principal<br>
  
-<center><img src="https://lh3.googleusercontent.com/-PBTgZTXhYxE/V_of0bakCXI/AAAAAAAAZTs/dTzKCPU1hGY/s1600-h/Estructura%252520de%252520p%2525C3%2525A1rrafo%25255B4%25255D.jpg" style="
+<center><img src="https://i.pinimg.com/564x/5c/92/48/5c92484546b83148483df094971a8c38.jpg" style="
     width: 400px;
     border-radius: 10px;
     border: double;
