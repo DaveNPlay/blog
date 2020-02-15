@@ -7,10 +7,9 @@ author: Dave Delgado
 
 <embed src="https://cife.edu.mx/recursos/wp-content/uploads/2019/01/manual_de_reglas_ortograficas.pdf" type="application/pdf" width="100%" height="600px" />
 
-<h2>Modelo Cascada</h2>
  <center><img src="https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/wasserfallmodell-ES-1.jpg"></center> 
- <p><b>Sus respectivas fases son las siguientes:</b><br>
--El análisis y definición de requerimientos<br>
+ <p><b>Definición:</b><br>
+-Son las normas que regulan la escritura de las palabras. El sistema que forman estas normas, conocido como ortografía, constituye una convención sobre cómo debe manifestarse por escrito una determinada lengua.<br>
 -Diseño del sistema y software.<br>
 -Pruebas de implementación de unidades<br>
 -Integración y pruebas del sistema<br>
