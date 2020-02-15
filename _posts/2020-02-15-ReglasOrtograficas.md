@@ -42,5 +42,6 @@ En el artículo de la hache también puedes consultar una lista con las interjec
 
 •	Se escriben con x las preposiciones latinas extra y ex (‘fuera de’): extraterrestre, exportar, etc.<br></p>
 
+<p><b>Les dejamos este interesante artículo:</b>
 <embed src="https://cife.edu.mx/recursos/wp-content/uploads/2019/01/manual_de_reglas_ortograficas.pdf" type="application/pdf" width="100%" height="600px" />
 
