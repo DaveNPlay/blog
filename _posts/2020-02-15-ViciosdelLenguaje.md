@@ -149,7 +149,8 @@ mal empleo de preposiciones: de conformidad a lo establecido (con)</p>
 Zenzazional (sensacional)
 ¡Que te pego leshes! (leches)
 Shile (Chile)</p>
-<pa><b>Ultracorrección o Hipercorrección:  </br> 
+ 
+<pa><b>Ultracorrección o Hipercorrección:  <br> 
 <p>consiste en deformar una palabra creyendo equivocadamente que se obtiene una variante más culta:
 Bilbado (Bilbao)
 Inflacción económica (inflación)
