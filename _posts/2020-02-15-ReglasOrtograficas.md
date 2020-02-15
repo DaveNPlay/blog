@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reglas Ortograficas"
-date:   2019-12-02 21:13:50 +0530
+date:   2020-02-15 09:49:50 +0530
 author: Dave Delgado
 ---
 
