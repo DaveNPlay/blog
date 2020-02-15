@@ -15,7 +15,7 @@ Los vicios del lenguaje son usos o formas incorrectas de hablar o escribir. A co
  <center> <a>Imagen 1</a></center>
 
 <h2>Vicios:</h2>
-<p><b>Anfibología o Ambigüedad</b>
+<pa><b>Anfibología o Ambigüedad</b>
 <p>consiste en emplear frases que tienen varias interpretaciones. La frase "Estaré solo este fin de semana" puede significar:<br>
 •estaré sin compañía este fin de semana<br>
 •estaré solamente este fin de semana<br></p>
