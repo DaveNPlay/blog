@@ -17,7 +17,7 @@ author: Dave Delgado
 
 
 <pa><b>ESTRUCTURA DE UN PÁRRAFO</b><br>
-Su estructura es la siguiente: Una idea principal Una o más ideas secundarias La idea principal contiene la esencia del párrafo, sin ella no se puede comprender el mensaje central que contiene cada uno. Las ideas secundarias amplían, complementan o reiteran la idea principal. Si se eliminan del párrafo no afectan el sentido del mismo.
+Su estructura es la siguiente: Una idea principal Una o más ideas secundarias La idea principal contiene la esencia del párrafo, sin ella no se puede comprender el mensaje central que contiene cada uno. Las ideas secundarias amplían, complementan o reiteran la idea principal. Si se eliminan del párrafo no afectan el sentido del mismo.<br>
 <pa><b>TIPOS DE PÁRRAFOS </b><br>
 Argumentativo: contiene una idea con la que se busca convencer al receptor sobre algo que se niega o afirma. Conceptual: en estos párrafos se especifica el pensamiento de algún autor o la definición de un término, que será utilizado a lo largo de todo el texto, por lo que resulta imprescindible su comprensión. Estos párrafos, están presentes en textos científicos y técnicos. Cronológico: en esta clase de párrafo se expresa, en el orden en que sucedieron, una serie de acontecimientos.
 De enumeración: este párrafo está compuesto por una serie de características que aluden a un mismo hecho, objeto o sujeto y una frase organizadora que permite comprender qué es lo que se está ordenando. 
