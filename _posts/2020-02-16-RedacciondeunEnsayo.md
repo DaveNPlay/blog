@@ -22,5 +22,5 @@ De enumeración: este párrafo está compuesto por una serie de características
 <p>Comparativo: en este párrafo se presentan similitudes y diferencias entre dos o más objetos, sucesos, o cualquier fenómeno.</p>
 
 <p><b>Les dejamos el articulo usado en le video:</b>
-<embed src="https://drive.google.com/file/d/1PuSsNHIBGfH_vF9qvAi2qJ78muisAe9W/view" type="application/pdf" width="100%" height="600px" />
+<embed src="https://davenplay.github.io/blog/assets/images/ensayo.pdf" type="application/pdf" width="100%" height="600px" />
 
