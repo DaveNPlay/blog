@@ -5,14 +5,7 @@ date:   2020-02-16 11:08:47 +0530
 author: Ricardo Solorzano y Sneyder Lopez
 ---
 
- <p><b>Definición:</b><br>
- El párrafo es una unidad de discurso que en un texto escrito expresara una idea o argumento o bien reproducirá las palabras de un orador en un discurso.<br>Se encuentra compuesto por un conjunto de oraciones que ostentan cierta unidad temática o aunque sin tenerla se enuncian juntas. Es de fácil detección dentro de un texto por las siguientes características: comienza con una mayúscula y termina con un punto y aparte y comprende varias oraciones, como dijimos, relacionadas sobre el mismo subtema, en tanto una de ellas solamente expresará la idea principal<br>
- 
-<center><img src="https://i.pinimg.com/564x/5c/92/48/5c92484546b83148483df094971a8c38.jpg" style="
-    width: 400px;
-    border-radius: 10px;
-    border: double;
-"></center>
+<video src="video.mp4" width="640" height="480"></video>
  <center> <a>Imagen 3</a></center>
 
 
@@ -28,6 +21,6 @@ De enumeración: este párrafo está compuesto por una serie de características
 <p>Narrativo: en estos se presentan hechos o acciones ocurridas de manera ordenada. <br>
 <p>Comparativo: en este párrafo se presentan similitudes y diferencias entre dos o más objetos, sucesos, o cualquier fenómeno.</p>
 
-<p><b>Les dejamos este interesante artículo:</b>
+<p><b>Les dejamos el articulo usado en le video:</b>
 <embed src="https://raw.githubusercontent.com/DaveNPlay/blog/fa7c2aec2c884d76d9d47caa2f8dfd2b98ed3dc1/_posts/ensayo.pdf" type="application/pdf" width="100%" height="600px" />
 
