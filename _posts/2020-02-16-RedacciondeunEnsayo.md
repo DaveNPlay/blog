@@ -29,5 +29,5 @@ De enumeración: este párrafo está compuesto por una serie de características
 <p>Comparativo: en este párrafo se presentan similitudes y diferencias entre dos o más objetos, sucesos, o cualquier fenómeno.</p>
 
 <p><b>Les dejamos este interesante artículo:</b>
-<embed src="https://www.uv.mx/personal/lenunez/files/2013/06/LR06_TiposdeParrafosSerafini.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://raw.githubusercontent.com/DaveNPlay/blog/fa7c2aec2c884d76d9d47caa2f8dfd2b98ed3dc1/_posts/ensayo.pdf" type="application/pdf" width="100%" height="600px" />
 
