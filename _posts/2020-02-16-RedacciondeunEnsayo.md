@@ -11,6 +11,6 @@ author: Ricardo Solorzano / Sneyder Lopez
 <center><a>Video 1</a></center>
 
 
-<p><b>Les dejamos el articulo usado en le video:</b>
+<p><b>Les dejamos el articulo usado en el video:</b>
 <embed src="https://davenplay.github.io/blog/assets/images/ensayo.pdf" type="application/pdf" width="100%" height="600px" />
 
