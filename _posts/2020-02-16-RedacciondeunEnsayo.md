@@ -2,7 +2,7 @@
 layout: post
 title:  "Redaccion de un Ensayo"
 date:   2020-02-16 08:47:47 +0530
-author: Ricardo Solorzano y Sneyder Lopez
+author: Ricardo Solorzano / Sneyder Lopez
 ---
 
 
