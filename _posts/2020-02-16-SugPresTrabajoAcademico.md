@@ -7,10 +7,10 @@ author: Ricardo Solorzano / Sneyder Lopez
 
 
 <pa><b>Video Expositorio</b><br>
-<center><video src="https://r5---sn-q4fl6nss.c.drive.google.com/videoplayback?expire=1581877968&ei=kFJJXoTYMevYzLUPkuC8yAs&ip=190.131.35.206&cp=QVNNU0lfVllUSVhOOnhnRnZnbXFxY1htalNSei0tV2Y4M3dNb213bXNGRUxKcl9DWjB6TkJDUnI&id=bc6e4614fe81af33&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1tVYYZ7E_FBVMP_STz21ju337Jv2qhohl&app=explorer&mime=video/mp4&dur=553.540&lmt=1581863255602061&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ALgxI2wwRQIhAN9EBmbx0vWaJcojlilnvnt7a6MT1anjZWH_PVfE_t6HAiBuV9WCVghiaSEDZnhCpINfkasbXpUCV8DIZeCGy1ES6A==&cpn=qVc8zoX0N-wCakgo&c=WEB_EMBEDDED_PLAYER&cver=20200214&redirect_counter=1&cm2rm=sn-hp5ke76&req_id=3476800d070336e2&cms_redirect=yes&mm=34&mn=sn-q4fl6nss&ms=ltu&mt=1581863303&mv=u&mvi=4&pl=24&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgCspXWtks2QlQynqtejfabmWASRFKRxAWY3aA5sGCyFgCICXOhgbLjtS7_NR9a64Jb3oDbNQwukm4Ip-7wAttHGXU" width="840" height="480" controls></video></center>
-<center><a>Video 1</a></center>
+<center><video src="https://r6---sn-q4flrn7s.c.drive.google.com/videoplayback?expire=1581878688&ei=YFVJXs_jJoW4uQXi5YDgCw&ip=190.131.35.206&cp=QVNNU0lfV1ZWSVhOOnhnRndkb3FxY1htalNTdy0tV2Y4M3dNcGp5bXNGRUxKcl9aQjB6TkJDUnI&id=2e03623f17d1d735&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1tuIYkUB-jtVlhcQMZCJbeAcey8sv2L_7&app=explorer&mime=video/mp4&dur=164.861&lmt=1581863066677452&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ALgxI2wwRQIhAM2i62LZJZleIW-Ev1qDRTwgM0EudampAb2EdRxM6rupAiBOheeCEdFmrk7HRWQM_ODRpQEl-RWSGt7XL4s_lmgtig==&cpn=89gmWKROnMnDaoh3&c=WEB_EMBEDDED_PLAYER&cver=20200214&redirect_counter=1&cm2rm=sn-hp5dz7d&fexp=23872989&req_id=ddd7c622e9e636e2&cms_redirect=yes&mm=34&mn=sn-q4flrn7s&ms=ltu&mt=1581863938&mv=u&mvi=5&pl=24&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgeeNmI7LGVuQ3-T1fw4AsDUAYx9KQfHPPKFdu_7qMZd4CIC0880g823MrOCnRQxmKN-gENZt13fv2NFGiZrXI8Q9n" width="840" height="480" controls></video></center>
+<center><a>Video 2</a></center>
 
 
-<p><b>Les dejamos el articulo usado en le video:</b>
+<p><b>Les dejamos el articulo usado en el video:</b>
 <embed src="https://davenplay.github.io/blog/assets/images/ensayo.pdf" type="application/pdf" width="100%" height="600px" />
 
