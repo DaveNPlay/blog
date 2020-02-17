@@ -7,7 +7,7 @@ author: Ricardo Solorzano / Sneyder Lopez
 
 
 <pa><b>Video Expositorio</b><br>
-<center><video src="https://www.youtube.com/embed/z6fULrP6rUI" width="840" height="480" controls></video></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/z6fULrP6rUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center><a>Video 1</a></center>
 
 
