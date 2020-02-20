@@ -7,7 +7,7 @@ author: Jeremy Hernandez
 
 
 <pa><b>Video Expositorio</b><br>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/KVYXLddwfsPJ4ec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zchuneSbR8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center><a>Video 4</a></center>
 
 
